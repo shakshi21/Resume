@@ -1,1 +1,1 @@
-# Resume
+# JavaScript-Bible-Basics
